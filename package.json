@@ -1,0 +1,11 @@
+{
+  "name": "rn-touch-zoom",
+  "version": "1.0.0",
+  "description": "Touch Zoom for react native",
+  "main": "TouchZoom.component.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "truongngodang",
+  "license": "ISC"
+}
